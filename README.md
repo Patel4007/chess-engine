@@ -39,11 +39,11 @@ Alternatively, Visual Studio Code with the Python extension can also be used for
 
 ## Game Logic and Algorithms
 
-- Negamax Algorithm: A simplified version of the Minimax algorithm used for decision-making in two-player zero-sum games like chess. It evaluates the game tree by recursively exploring possible moves and choosing the one that maximizes the player's advantage.
+**Negamax Algorithm**: A simplified version of the Minimax algorithm used for decision-making in two-player zero-sum games like chess. It evaluates the game tree by recursively exploring possible moves and choosing the one that maximizes the player's advantage.
 
-- Alpha-Beta Pruning: An optimization technique for the Negamax algorithm that reduces the number of nodes evaluated in the game tree, improving performance by "pruning" branches that won't be selected.
+**Alpha-Beta Pruning**: An optimization technique for the Negamax algorithm that reduces the number of nodes evaluated in the game tree, improving performance by "pruning" branches that won't be selected.
 
-- Reinforcement Learning: Used to enhance the AI player by learning from interactions with the environment, where the model is trained to improve its gameplay strategy over time through rewards and penalties.
+**Reinforcement Learning**: Used to enhance the AI player by learning from interactions with the environment, where the model is trained to improve its gameplay strategy over time through rewards and penalties.
 
 ## Usage
 
