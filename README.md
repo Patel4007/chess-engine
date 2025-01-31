@@ -18,6 +18,10 @@ images/: Folder containing images related to the chess game.
 
 .idea/: Configuration files for the project in IntelliJ or PyCharm.
 
+## Project Output
+
+<img src="image1.png" width="700" height="500">
+
 ## Requirements
 
 To run this project, you will need Python installed. You can install the required dependencies using pip:
