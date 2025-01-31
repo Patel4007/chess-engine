@@ -20,7 +20,7 @@ images/: Folder containing images related to the chess game.
 
 ## Project Output
 
-<img src="image1.png" width="700" height="500">
+<img src="Output_Images/Chess_Engine.png" width="700" height="500">
 
 ## Requirements
 
