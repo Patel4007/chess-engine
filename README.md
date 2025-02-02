@@ -4,7 +4,7 @@ This repository contains a Python-based chess game implementation. It includes v
 
 ## Project Output
 
-<img src="Output_Images/Chess_Engine.png" width="700" height="500">
+<img src="Output_Images/Chess_Engine.png" width="800" height="500">
 
 ## File Structure
 
