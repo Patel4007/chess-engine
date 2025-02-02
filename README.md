@@ -2,10 +2,6 @@
 
 This repository contains a Python-based chess game implementation. It includes various scripts for gameplay and additional project files for setting up the environment.
 
-## Project Output
-
-<img src="Output_Images/Chess_Engine.png" width="800" height="500">
-
 ## File Structure
 
 Chess.py: Main file for the chess game logic.
@@ -21,6 +17,10 @@ __pycache__: Compiled Python files.
 images/: Folder containing images related to the chess game.
 
 .idea/: Configuration files for the project in IntelliJ or PyCharm.
+
+## Project Output
+
+<img src="Output_Images/Chess_Engine.png" width="800" height="500">
 
 ## Requirements
 
