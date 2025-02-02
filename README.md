@@ -2,6 +2,10 @@
 
 This repository contains a Python-based chess game implementation. It includes various scripts for gameplay and additional project files for setting up the environment.
 
+## Project Output
+
+<img src="Project_Output/.png" width="200">
+
 ## File Structure
 
 Chess.py: Main file for the chess game logic.
